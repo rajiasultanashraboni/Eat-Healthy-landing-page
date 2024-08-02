@@ -35,4 +35,29 @@
        
     }
 
+
+    /* about me section here */
+
+    .about-me-image{
+        width: 100%;
+        
+    }
+
+    .about-me-container{
+        flex-direction: column;
+        height: 1200px;
+        margin-top: 500px;
+        
+    }
+
+    .about-me-image img{
+        margin-left: 100px;
+       
+    }
+
+    .about-me-desc{
+        width: 100%;
+        
+    }
+    
     
