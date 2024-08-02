@@ -1,0 +1,38 @@
+/* banner section is start here */
+@media screen and (max-width:576px) {
+    .banner-section{
+        flex-direction: column;
+    }
+
+    .banner-content{
+        width: 100%;
+        padding:30px;
+    }
+
+    .hide{
+        display: none;
+    }
+
+    .banner-content h1{
+        font-size: 2rem;
+    }
+    .banner-content p{
+        
+        width: 250px;
+    
+    }
+
+    .banner-image{
+        width: 100%;   
+    }
+
+    .hero-background img{
+        width: 100%;
+    }
+
+    .hero-background{
+        padding-top: 60px;
+       
+    }
+
+    
