@@ -84,6 +84,12 @@
         
         width: 370px;
     }
+
+    .cards{
+        flex-direction: column;
+        width: 100%;
+        padding-left: 150px;
+    }
     
     
     
