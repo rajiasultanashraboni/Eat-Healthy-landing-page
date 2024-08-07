@@ -233,6 +233,30 @@ span{
     font-weight: 700;
 }
 
+footer{
+    background: rgb(11, 13, 23);
+    height: 300px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+footer p{
+    color: rgb(255, 255, 255);
+    font-family: Montserrat;
+    font-size: 1rem;
+    font-weight: 400;
+    margin-top: 25px;
+}
+footer h1{
+    color:rgb(211, 198, 198);
+    font-family: Manrope;
+    font-size: 1.5rem;
+    font-weight: 800;
+}
+
 
 
 
